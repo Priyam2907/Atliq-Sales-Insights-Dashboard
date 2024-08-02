@@ -1,4 +1,6 @@
 # Atliq-Sales-Insights-Dashboard
+## PowerBI Dashboard 
+Explore the live PowerBI dashboard [Link]((https://app.powerbi.com/view?r=eyJrIjoiMDljNzA3MWEtZDY5Zi00NGM3LTgzMGUtMjNiMTAxZGY2M2QxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ## Overview
 
